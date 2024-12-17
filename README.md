@@ -10,4 +10,4 @@
 2. Run the game using Python.
 
 ## Demo:
-[Watch the demo here]([https://www.youtube.com/watch?v=yourvideoID](https://youtu.be/8Vy9HAiQbro))
+[Watch the demo here]([https://www.youtube.com/watch?v=8Vy9HAiQbro])
